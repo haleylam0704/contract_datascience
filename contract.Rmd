@@ -3,10 +3,10 @@ title: Grading Contract
 date: "`r format(Sys.time(), '%B %d %Y')`"
 output: github_document
 params:
-  weekonemonday: "2023-01-09"
+  weekonemonday: "2025-01-12"
   thesisdeadline: "2023-01-10"
   springbreak: "2023-01-10"
-  name: Tukey Cat
+  name: Haley Lam
   labs: 11
   portfolios: 10
   grade:
@@ -132,6 +132,8 @@ topic = c(
   "Prediction and overfitting",
   "Cross validation",
   "Quantifying uncertainty",
+  "Simulating Data",
+  "Large Language Models",
   "Interactive web apps",
   "Special Topics"
 )
