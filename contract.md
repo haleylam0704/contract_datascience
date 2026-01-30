@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 23 2026
+January 30 2026
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -42,11 +42,11 @@ rearrange these labs and events to fit your needs.
 - [ ] Module 03, 01/26 - 01/30 : Grammar of data wrangling
 
   - Finish Lab 2 by Friday: 01/30
-  - Finish portfolio piece 1 by Friday: 01/30
 
 - [ ] Module 04, 02/02 - 02/06 : Data types and Data Transformations
 
   - Finish Lab 3 by Friday: 02/06
+    - Finish portfolio piece 1 by Friday: 02/06
 
 - [ ] Module 05, 02/09 - 02/13 : Tips for effective data visualization
 
